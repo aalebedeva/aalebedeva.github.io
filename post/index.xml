@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Version Control Git</title>
+      <link>https://example.com/post/git.post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git.post/</guid>
+      <description>&lt;h2 id=&#34;article&#34;&gt;article&lt;/h2&gt;
+&lt;h2 id=&#34;version-control&#34;&gt;version control&lt;/h2&gt;
+&lt;p&gt;Version control, also known as source code management, is the practice of tracking and managing changes to software code. Version control systems are software tools that help development teams manage changes to the source code over time. In light of the complexity of development environments, they help development teams work faster and more efficiently. Version control systems are most useful to DevOps teams because they help reduce development time and increase the number of successful deployments.&lt;/p&gt;
+&lt;p&gt;The version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members.&lt;/p&gt;
+&lt;p&gt;In almost all software projects, the source code is a treasure: it is a valuable resource that needs to be protected. For most software development teams, the source code is a repository of invaluable knowledge and understanding of the problem area, which they scrupulously collected and improved. Version control protects the source code from catastrophic failures, from accidental deterioration caused by the human factor, as well as from unforeseen consequences.&lt;/p&gt;
+&lt;p&gt;Software developers working in teams are constantly writing new source code and modifying existing ones. The code of a project, application, or software component is usually organized in the form of a folder structure or a &amp;ldquo;file tree&amp;rdquo;. One developer in the team can work on a new feature, and another at the same time change the code to fix an unrelated error, i.e. each developer can make their own changes to several parts of the file tree.&lt;/p&gt;
+&lt;p&gt;Version control helps teams solve similar problems&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/p&gt;
+&lt;p&gt;Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
