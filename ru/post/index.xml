@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://example.com/ru/post/</link>
+      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 25 May 2022 12:51:51 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>Programming language</title>
+      <link>https://example.com/ru/post/programming-language/</link>
+      <pubDate>Wed, 25 May 2022 12:51:51 +0300</pubDate>
+      <guid>https://example.com/ru/post/programming-language/</guid>
+      <description>&lt;h2 id=&#34;programming-in-science-relevance-and-relevance&#34;&gt;Programming in science: relevance and relevance.&lt;/h2&gt;
+&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
+&lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility. Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries. A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, “smart” control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;h2 id=&#34;specializations&#34;&gt;Specializations&lt;/h2&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively. Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other “scientific” languages: Fortran, C++, C#. In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions&lt;/p&gt;
+&lt;h2 id=&#34;the-future-of-the-programmer-scientist-profession&#34;&gt;The future of the programmer-scientist profession&lt;/h2&gt;
+&lt;p&gt;Programming moves science, which moves technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the XXI century: Microwave oven, mobile phone, 8-bit home computer. It depends on the programmer-scientist which peaks science will reach today and which of them will enter every home tomorrow. In the hands of a programmer-scientist there are tools not only for the development of industry, but also for improving the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to anticipate and prevent climatic, financial, humanitarian disasters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 4 Week</title>
+      <link>https://example.com/ru/post/my-4-week/</link>
+      <pubDate>Wed, 25 May 2022 12:48:10 +0300</pubDate>
+      <guid>https://example.com/ru/post/my-4-week/</guid>
+      <description>&lt;p&gt;Over the past week, I&amp;rsquo;ve completed labs #9 and #10&lt;/p&gt;
+&lt;p&gt;I also did 3 labs in other subjects.&lt;/p&gt;
+&lt;p&gt;I went to KVN in the main building of RUDN University. I really liked it. The guys were funny and resourceful. I advise you to visit this event, you will not regret it.&lt;/p&gt;
+&lt;p&gt;I also played volleyball many times with my friends from university. It was an unforgettable experience. Playing outdoor volleyball is a separate kind of pleasure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/ru/post/report/</link>
+      <pubDate>Sat, 21 May 2022 10:56:32 +0300</pubDate>
+      <guid>https://example.com/ru/post/report/</guid>
+      <description>&lt;p&gt;The content of the main elements of the report:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Title page. The first sheet of work is drawn up strictly according to the pattern that is usually given in the manuals on your subject. It is not just required to specify elements such as the name of the educational institution, the type of work and information about the performer, but also to arrange them in strict accordance with the standards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abstract. The abstract is actually a summary of your entire report and contains a number of statistical information. In it, you need to specify the number of parts, pages of the work, illustrations, appendices, tables, used literary sources and appendices. Here is also a list of the keywords of the work and the actual text of the abstract. The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation. In the practice of universities, the abstract is usually not included in the reports on laboratory work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction. In the introduction of a typical laboratory work, the goals of the study and the tasks that will help achieve the goals are usually prescribed. At the same time, there are works in which students become real pioneers. Have you ever experienced at least once a feeling of extreme curiosity and impatience during laboratory work? To feel that in just a couple of minutes you will find the answer to a question that no one has ever found an answer to? It is for such studies that a detailed introduction is written with proof of the relevance and novelty of the topic being studied. In order to really conduct research in an area in which, as they say, no human foot has yet set foot, in the introduction you will need to give an assessment of the current state of the problem under consideration and justify the need for its solution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The main part. Since different universities and disciplines have their own subtleties of laboratory work, the content of the main part is described in detail in the relevant manuals. It is important that this section of the work reflects its essence, describes the methodology and results of the work done. The main part prescribes the following elements:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;objectives of the study;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;tasks that will help you achieve your goals;&lt;/li&gt;
+&lt;li&gt;the progress of the work, which describes the actions performed;&lt;/li&gt;
+&lt;li&gt;other sections provided by methodological materials on the discipline being studied.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conclusion. In this part of the work, you will need to draw conclusions from the results obtained during the laboratory work. To do this, evaluate how fully the tasks have been completed. Other elements may be present in complex works, for example, recommendations for further application of the results of the work carried out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 3 Week</title>
+      <link>https://example.com/ru/post/my-3-week/</link>
+      <pubDate>Sat, 21 May 2022 10:55:01 +0300</pubDate>
+      <guid>https://example.com/ru/post/my-3-week/</guid>
+      <description>&lt;p&gt;Over the past week, I&amp;rsquo;ve completed labs #7 and #8, the topics of which were &amp;ldquo;Midnight Commander Shell&amp;rdquo; and &amp;ldquo;Vi Text Editor&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I also did 3 labs in other subjects.&lt;/p&gt;
+&lt;p&gt;I went to KVN in the main building of RUDN University. I really liked it. The guys were funny and resourceful. I advise you to visit this event, you will not regret it.&lt;/p&gt;
+&lt;p&gt;I also played volleyball many times with my friends from university. It was an unforgettable experience. Playing outdoor volleyball is a separate kind of pleasure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/ru/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;article&#34;&gt;article&lt;/h2&gt;
+&lt;p&gt;This document is intended to introduce the user to the functionality of the Markdown markup language. Markdown is a lightweight markup language that is a tool for converting code into HTML. The main feature of this language is the most simple syntax, which serves to simplify writing and reading the markup code, which, in turn, makes it easy to correct it. Now let&amp;rsquo;s take a closer look at the features of the Markdown markup language.&lt;/p&gt;
+&lt;p&gt;Markdown is not a replacement for HTML. The syntax of Markdown is quite limited, and matches only a small subset of HTML elements. Paragraphs and line breaks&lt;/p&gt;
+&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate lines of text with one (or more) empty lines (an empty line is any line that contains nothing but spaces and tabs). In order to insert a visible line break (the &lt;br/&gt; element), you must end the line with two spaces and press the Enter key. Many Markdown syntax elements look and work much better when formatted with &amp;ldquo;hard translation lines&amp;rdquo; (string separation carried out by the user himself, and not automatically by the program). These elements include quotes, lists, etc.&lt;/p&gt;
+&lt;p&gt;Titles&lt;/p&gt;
+&lt;p&gt;The Markdown markup language supports 2 heading styles: underlining and highlighting with the symbol (&amp;quot;#&amp;quot;). Highlighting headings using underlining is done with equal signs (&amp;quot;=&amp;quot;) if the heading is the first level, and hyphens (&amp;quot;-&amp;quot;) if the heading is the second level. The number of underscores is not limited. When highlighting headings using the symbol (&amp;quot;#&amp;quot;), one to six of these characters are used, which are set at the beginning of the line (before the heading). In this case, the number of characters corresponds to the heading level. In addition, it is possible to provide closing characters (&amp;quot;#&amp;quot;) in the title, although this is not required. The number of closing characters does not have to match the number of beginning characters. The title level is determined by the number of initial characters.&lt;/p&gt;
+&lt;p&gt;Quotes&lt;/p&gt;
+&lt;p&gt;Markdown uses the greater-than sign (&amp;gt;) to indicate quotes. It can be inserted both before each line of a quotation, and only before the first line of a paragraph. Markdown syntax also allows you to create nested quotes (quotes within quotes). Additional levels of quotation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them up. Quotes in Markdown can contain all sorts of markup elements.&lt;/p&gt;
+&lt;p&gt;Lists&lt;/p&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (unordered) lists. To form unordered lists, markers such as asterisks, pluses, and hyphens are used. All listed markers can be used interchangeably. Dotted numbers are used as markers to form ordered lists. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, in the output he will in any case have an ordered list starting from one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the serial numbers of elements in the list so that they correspond to the numbers obtained in HTML. Ordered lists should always start with one. List markers usually start at the beginning of the line, but they can be shifted up to a maximum of 3 spaces. The marker must be followed by a space or a tab character. You can insert a citation into the list if necessary. In this case, quoting marks ( &amp;ldquo;&amp;gt;&amp;rdquo; ) must be indented. It can be used in Markdown before special characters so that they are perceived in their literal (and not official) meaning. The full list of these symbols is given below:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;quot; - slash;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;`&amp;rdquo; - backtick;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;*&amp;rdquo; - asterisk;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;_&amp;rdquo; - underscore character;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;{}&amp;rdquo; - curly braces;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;[]&amp;rdquo; - square brackets;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;()&amp;rdquo; - round brackets;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;#&amp;rdquo; - hash symbol;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;+&amp;rdquo; - plus;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;-&amp;rdquo; - minus (hyphen);&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;.&amp;rdquo; - dot;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;!&amp;rdquo; - Exclamation point.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control Git</title>
+      <link>https://example.com/ru/post/git.post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git.post/</guid>
+      <description>&lt;h2 id=&#34;article&#34;&gt;article&lt;/h2&gt;
+&lt;h2 id=&#34;version-control&#34;&gt;version control&lt;/h2&gt;
+&lt;p&gt;Version control, also known as source code management, is the practice of tracking and managing changes to software code. Version control systems are software tools that help development teams manage changes to the source code over time. In light of the complexity of development environments, they help development teams work faster and more efficiently. Version control systems are most useful to DevOps teams because they help reduce development time and increase the number of successful deployments.&lt;/p&gt;
+&lt;p&gt;The version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members.&lt;/p&gt;
+&lt;p&gt;In almost all software projects, the source code is a treasure: it is a valuable resource that needs to be protected. For most software development teams, the source code is a repository of invaluable knowledge and understanding of the problem area, which they scrupulously collected and improved. Version control protects the source code from catastrophic failures, from accidental deterioration caused by the human factor, as well as from unforeseen consequences.&lt;/p&gt;
+&lt;p&gt;Software developers working in teams are constantly writing new source code and modifying existing ones. The code of a project, application, or software component is usually organized in the form of a folder structure or a &amp;ldquo;file tree&amp;rdquo;. One developer in the team can work on a new feature, and another at the same time change the code to fix an unrelated error, i.e. each developer can make their own changes to several parts of the file tree.&lt;/p&gt;
+&lt;p&gt;Version control helps teams solve similar problems&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/p&gt;
+&lt;p&gt;Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

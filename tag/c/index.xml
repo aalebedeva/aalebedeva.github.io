@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C | Academic</title>
+    <link>https://example.com/tag/c/</link>
+      <atom:link href="https://example.com/tag/c/index.xml" rel="self" type="application/rss+xml" />
+    <description>C</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 12:29:06 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>C</title>
+      <link>https://example.com/tag/c/</link>
+    </image>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://example.com/project/c&#43;&#43;/</link>
+      <pubDate>Wed, 25 May 2022 12:29:06 +0300</pubDate>
+      <guid>https://example.com/project/c&#43;&#43;/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t really understand what to write in this section. Presumably about their projects. I&amp;rsquo;m not doing a C++ project right now, but I plan to start. This project will implement the simplest game for fun. Of course, games are easier to write in Python, but C ++ is more interesting&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

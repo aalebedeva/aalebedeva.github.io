@@ -5,12 +5,42 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;article&#34;&gt;article&lt;/h2&gt;
+&lt;p&gt;This document is intended to introduce the user to the functionality of the Markdown markup language. Markdown is a lightweight markup language that is a tool for converting code into HTML. The main feature of this language is the most simple syntax, which serves to simplify writing and reading the markup code, which, in turn, makes it easy to correct it. Now let&amp;rsquo;s take a closer look at the features of the Markdown markup language.&lt;/p&gt;
+&lt;p&gt;Markdown is not a replacement for HTML. The syntax of Markdown is quite limited, and matches only a small subset of HTML elements. Paragraphs and line breaks&lt;/p&gt;
+&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate lines of text with one (or more) empty lines (an empty line is any line that contains nothing but spaces and tabs). In order to insert a visible line break (the &lt;br/&gt; element), you must end the line with two spaces and press the Enter key. Many Markdown syntax elements look and work much better when formatted with &amp;ldquo;hard translation lines&amp;rdquo; (string separation carried out by the user himself, and not automatically by the program). These elements include quotes, lists, etc.&lt;/p&gt;
+&lt;p&gt;Titles&lt;/p&gt;
+&lt;p&gt;The Markdown markup language supports 2 heading styles: underlining and highlighting with the symbol (&amp;quot;#&amp;quot;). Highlighting headings using underlining is done with equal signs (&amp;quot;=&amp;quot;) if the heading is the first level, and hyphens (&amp;quot;-&amp;quot;) if the heading is the second level. The number of underscores is not limited. When highlighting headings using the symbol (&amp;quot;#&amp;quot;), one to six of these characters are used, which are set at the beginning of the line (before the heading). In this case, the number of characters corresponds to the heading level. In addition, it is possible to provide closing characters (&amp;quot;#&amp;quot;) in the title, although this is not required. The number of closing characters does not have to match the number of beginning characters. The title level is determined by the number of initial characters.&lt;/p&gt;
+&lt;p&gt;Quotes&lt;/p&gt;
+&lt;p&gt;Markdown uses the greater-than sign (&amp;gt;) to indicate quotes. It can be inserted both before each line of a quotation, and only before the first line of a paragraph. Markdown syntax also allows you to create nested quotes (quotes within quotes). Additional levels of quotation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them up. Quotes in Markdown can contain all sorts of markup elements.&lt;/p&gt;
+&lt;p&gt;Lists&lt;/p&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (unordered) lists. To form unordered lists, markers such as asterisks, pluses, and hyphens are used. All listed markers can be used interchangeably. Dotted numbers are used as markers to form ordered lists. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, in the output he will in any case have an ordered list starting from one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the serial numbers of elements in the list so that they correspond to the numbers obtained in HTML. Ordered lists should always start with one. List markers usually start at the beginning of the line, but they can be shifted up to a maximum of 3 spaces. The marker must be followed by a space or a tab character. You can insert a citation into the list if necessary. In this case, quoting marks ( &amp;ldquo;&amp;gt;&amp;rdquo; ) must be indented. It can be used in Markdown before special characters so that they are perceived in their literal (and not official) meaning. The full list of these symbols is given below:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;quot; - slash;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;`&amp;rdquo; - backtick;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;*&amp;rdquo; - asterisk;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;_&amp;rdquo; - underscore character;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;{}&amp;rdquo; - curly braces;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;[]&amp;rdquo; - square brackets;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;()&amp;rdquo; - round brackets;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;#&amp;rdquo; - hash symbol;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;+&amp;rdquo; - plus;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;-&amp;rdquo; - minus (hyphen);&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;.&amp;rdquo; - dot;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;!&amp;rdquo; - Exclamation point.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Version Control Git</title>
